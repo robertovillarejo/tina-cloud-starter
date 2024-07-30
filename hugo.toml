@@ -1,4 +1,11 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'dream'
+baseURL = 'http://example.org/'
+languageCode = 'es-mx'
+title = 'Tecnomanía'
+theme = "dream"
+defaultContentLanguage = "es"
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+avatar = "/uploads/logo_tecnomania.png"
+favicon = "/favicon.ico"
+headerTitle = "Tecnomanía"
