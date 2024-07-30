@@ -1,6 +1,6 @@
 ---
 nombre: MacBook Air M1
-precio: 15000
+precio: 11499
 imagenUrl: uploads/macbook-air.jpg
 cantidad: 1
 ---
