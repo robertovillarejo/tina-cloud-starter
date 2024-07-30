@@ -4,7 +4,7 @@ const Producto: Collection = {
     name: "producto",
     label: "Productos",
     path: "content/productos",
-    format: "mdx",
+    format: "md",
     ui: {
         router: ({ document }) => {                  
           return `/productos/${document._sys.breadcrumbs.join("/")}`;
