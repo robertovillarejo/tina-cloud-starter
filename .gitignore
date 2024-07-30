@@ -26,3 +26,9 @@ yarn-debug.log*
 yarn-error.log*
 
 .tina/__generated__
+
+# Hugo generated content
+/public
+
+# Hugo generated resources
+resources/_gen/assets/
