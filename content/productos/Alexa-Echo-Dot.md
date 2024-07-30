@@ -1,7 +1,9 @@
 ---
 nombre: Alexa Echo Dot
 precio: 850
-imagenUrl: /uploads/llama-4.avif
+imagenUrl: >-
+  https://assets.tina.io/2440011d-ac00-4a2d-8f2b-581714fe22fa/alexa echo
+  dot.jpeg
 categoria: hogar
 cantidad: 8
 ---
