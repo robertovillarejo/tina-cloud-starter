@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D\"",
     "build": "tinacms build && hugo",
-    "start": "tinacms build && hugo server"
+    "start": "git pull && tinacms build && hugo server"
   },
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
